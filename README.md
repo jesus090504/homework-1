@@ -85,48 +85,47 @@ Please edit this file to add your answers to the following questions.
 
 #### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
-* What is the scheme/protocol?
-* What is the host?
+* What is the scheme/protocol?https://
+* What is the host?www.nsnsp.org
 * What is the port number?
-* What is the path?
-* What are the query parameters?
+* What is the path?commitments?
+* What are the query parameters?date=2017-09
 * What is the fragment?
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
+* What is the scheme/protocol?http://
 * What is the host?
-* What is the port number?
-* What is the path?
+* What is the port number?4000
+* What is the path?admin?
 * What are the query parameters?
 * What is the fragment?
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
+* What is the scheme/protocol?http://
+* What is the host?www.lehman.edu
 * What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the path?academics/mathematics-computer-science
+* What is the fragment?index.php
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
+* What is the scheme/protocol?http:/
+* What is the host?en.wikipedia.org
 * What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the path?/wiki/Greek_alphabet
+* What are the query parameters?#Glyph_
+* What is the fragment?variants
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? secure
 
-Why is HTTPS better than HTTP?
+Why is HTTPS better than HTTP?because HTTPS has a security extension
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS?yes
 
 
 ## Webpages
@@ -139,22 +138,23 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+Is a document commonly written in HTML code, accessible through the Internet browser.
 
 
 ### 11. Webpage I like
 
-What's one webpage you like? Why?
+What's one webpage you like? Why? those of simple navegation and dinamycs showing webpage, because those guive to thee
+users easy and access to the information.
 
 
 ### 12. Website I don’t like
 
-What's one webpage you like? Why?
+What's one webpage you like? Why? static and bussy sites
 
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags?
+Where is a good place to look for information about HTML tags? online
 
 
 ### 14. HTML Versions
